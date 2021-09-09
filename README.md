@@ -1,0 +1,1 @@
+<img src="./public/calculator.png" alt="calculator"></img>
